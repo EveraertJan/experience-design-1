@@ -22,7 +22,6 @@ By the end of this course, you will be able to apply interactions deliberately t
 
 Messages should show respect for both your time and mine: concise, with the necessary context, and with a proper greeting and closing. AI-written essays will be answered by AI. This course is about interaction, so let's apply that across the board.
 
-## 
 
 ## Course Material
 
@@ -31,8 +30,6 @@ Course material is developed at two moments, so that all information is availabl
 **Before classes start**, tools, materials and sources are compiled to support the learning process. At the start of each lecture, the slides will be available so you can annotate them during the session.
 
 **After each lecture**, the recording is transcribed and turned into a written course text that you can search and consult. This allows you to take in the material in multiple ways. Since there is no theoretical exam, this written course serves purely as support.
-
-## 
 
 ## Learning Outcomes (ECTS)
 
@@ -52,8 +49,6 @@ Course material is developed at two moments, so that all information is availabl
 3. The student can use electronic components to create interactive objects.  
 4. The student understands data protocols and can implement them correctly.  
 5. The student can use various output devices to present the story in space.
-
-## 
 
 ## Examination
 
